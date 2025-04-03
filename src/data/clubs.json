@@ -1,0 +1,203 @@
+[
+  {
+    "id": "1",
+    "name": "Computer Science Society",
+    "description": "A community for students interested in computer science, programming, and technology.",
+    "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd8348caf3?w=200&h=200&fit=crop",
+    "category": "Academic",
+    "meetingTimes": ["Monday 6:00 PM", "Wednesday 5:00 PM"],
+    "location": "Fisher Student Center",
+    "contactEmail": "css@bryant.edu",
+    "website": "https://engaged.bryant.edu/css",
+    "socialMedia": {
+      "instagram": "@bryantcss",
+      "facebook": "BryantCSS",
+      "twitter": "@bryantcss"
+    },
+    "tags": ["Programming", "Technology", "Computer Science"],
+    "memberCount": 45,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Business Analytics Club",
+    "description": "Explore data analytics, business intelligence, and data-driven decision making.",
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop",
+    "category": "Business",
+    "meetingTimes": ["Tuesday 4:00 PM", "Thursday 3:00 PM"],
+    "location": "Bello Center",
+    "contactEmail": "bac@bryant.edu",
+    "website": "https://engaged.bryant.edu/bac",
+    "socialMedia": {
+      "instagram": "@bryantbac",
+      "linkedin": "Bryant-Business-Analytics-Club"
+    },
+    "tags": ["Analytics", "Data", "Business"],
+    "memberCount": 30,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Environmental Club",
+    "description": "Promoting sustainability and environmental awareness on campus.",
+    "imageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=200&h=200&fit=crop",
+    "category": "Community Service",
+    "meetingTimes": ["Wednesday 6:00 PM"],
+    "location": "Fisher Student Center",
+    "contactEmail": "env@bryant.edu",
+    "website": "https://engaged.bryant.edu/env",
+    "socialMedia": {
+      "instagram": "@bryantenvironmental",
+      "facebook": "BryantEnvironmental"
+    },
+    "tags": ["Environment", "Sustainability", "Community"],
+    "memberCount": 25,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Investment Club",
+    "description": "Learn about financial markets, investment strategies, and portfolio management.",
+    "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=200&h=200&fit=crop",
+    "category": "Business",
+    "meetingTimes": ["Monday 5:00 PM", "Thursday 4:00 PM"],
+    "location": "Bello Center",
+    "contactEmail": "invest@bryant.edu",
+    "website": "https://engaged.bryant.edu/invest",
+    "socialMedia": {
+      "instagram": "@bryantinvest",
+      "linkedin": "Bryant-Investment-Club"
+    },
+    "tags": ["Finance", "Investing", "Business"],
+    "memberCount": 40,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Marketing Association",
+    "description": "Develop marketing skills through workshops, competitions, and networking events.",
+    "imageUrl": "https://images.unsplash.com/photo-1557838923-2985c318be48?w=200&h=200&fit=crop",
+    "category": "Business",
+    "meetingTimes": ["Tuesday 5:00 PM", "Thursday 6:00 PM"],
+    "location": "Bello Center",
+    "contactEmail": "marketing@bryant.edu",
+    "website": "https://engaged.bryant.edu/marketing",
+    "socialMedia": {
+      "instagram": "@bryantmarketing",
+      "linkedin": "Bryant-Marketing-Association"
+    },
+    "tags": ["Marketing", "Business", "Networking"],
+    "memberCount": 35,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Dance Team",
+    "description": "Express yourself through dance and perform at campus events.",
+    "imageUrl": "https://images.unsplash.com/photo-1519925610903-381054cc2a1c?w=200&h=200&fit=crop",
+    "category": "Arts",
+    "meetingTimes": ["Monday 7:00 PM", "Wednesday 7:00 PM"],
+    "location": "Gym",
+    "contactEmail": "dance@bryant.edu",
+    "website": "https://engaged.bryant.edu/dance",
+    "socialMedia": {
+      "instagram": "@bryantdance",
+      "tiktok": "@bryantdance"
+    },
+    "tags": ["Dance", "Performance", "Arts"],
+    "memberCount": 20,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Debate Society",
+    "description": "Hone your public speaking and critical thinking skills through debate.",
+    "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=200&h=200&fit=crop",
+    "category": "Academic",
+    "meetingTimes": ["Tuesday 6:00 PM", "Thursday 5:00 PM"],
+    "location": "Library",
+    "contactEmail": "debate@bryant.edu",
+    "website": "https://engaged.bryant.edu/debate",
+    "socialMedia": {
+      "instagram": "@bryantdebate",
+      "twitter": "@bryantdebate"
+    },
+    "tags": ["Debate", "Public Speaking", "Academic"],
+    "memberCount": 15,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "International Student Association",
+    "description": "Connect with students from around the world and celebrate cultural diversity.",
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=200&h=200&fit=crop",
+    "category": "Cultural",
+    "meetingTimes": ["Wednesday 4:00 PM", "Friday 5:00 PM"],
+    "location": "Unistructure",
+    "contactEmail": "isa@bryant.edu",
+    "website": "https://engaged.bryant.edu/isa",
+    "socialMedia": {
+      "instagram": "@bryantisa",
+      "facebook": "BryantISA"
+    },
+    "tags": ["Cultural", "International", "Community"],
+    "memberCount": 50,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "Entrepreneurship Club",
+    "description": "Learn about starting and running your own business.",
+    "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200&h=200&fit=crop",
+    "category": "Business",
+    "meetingTimes": ["Monday 4:00 PM", "Wednesday 3:00 PM"],
+    "location": "Bello Center",
+    "contactEmail": "entrepreneur@bryant.edu",
+    "website": "https://engaged.bryant.edu/entrepreneur",
+    "socialMedia": {
+      "instagram": "@bryantentrepreneur",
+      "linkedin": "Bryant-Entrepreneurship-Club"
+    },
+    "tags": ["Entrepreneurship", "Business", "Startup"],
+    "memberCount": 30,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "Music Club",
+    "description": "Share your love for music and perform at campus events.",
+    "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=200&h=200&fit=crop",
+    "category": "Arts",
+    "meetingTimes": ["Tuesday 7:00 PM", "Thursday 7:00 PM"],
+    "location": "Fisher Student Center",
+    "contactEmail": "music@bryant.edu",
+    "website": "https://engaged.bryant.edu/music",
+    "socialMedia": {
+      "instagram": "@bryantmusic",
+      "youtube": "BryantMusicClub"
+    },
+    "tags": ["Music", "Performance", "Arts"],
+    "memberCount": 25,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+] 
