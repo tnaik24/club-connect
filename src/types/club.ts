@@ -18,6 +18,7 @@ export interface UserProfile {
     categories: string[];
     meetingTimes: string[];
     locations: string[];
+    interests: string[];
   };
   favorites: string[]; // Array of club IDs
   createdAt: string;
